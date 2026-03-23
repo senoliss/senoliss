@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senoliss
-- 👀 I’m interested in automating boring/lazy tasks or just creating something inovative let it be software or hardware. Always curious to learn something new from drag n deop to how to better cut onions.
+- 👀 I’m interested in automating boring/lazy tasks or just creating something inovative let it be software or hardware. Always curious to learn something new from drag n drop to how to better cut onions.
 - 🌱 I’m currently learning C# for BE and React.js for FE.
 - 📫 Reach me on LinkedIn: https://lt.linkedin.com/in/marius-me%C5%A1kauskas-a33673225
 - ⚡ Top Quotes: 
